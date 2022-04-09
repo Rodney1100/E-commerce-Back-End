@@ -13,6 +13,7 @@ Tag.init(
       primaryKey: true,
       autoIncrement: true
     },
+    
   },
   {
     sequelize,
