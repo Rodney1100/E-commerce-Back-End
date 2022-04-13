@@ -11,7 +11,7 @@ follow the dependencies to make the app run in the command line.
 https://drive.google.com/file/d/1WMlvw_4W45NYkUx3Og0FnUkV8crU8pfm/view
 ## Screenshots
 
-![App Screenshot](./assets/image/Screenshot%202022-04-12%20234641.png)
+![App Screenshot](./develop/assets/image/Screenshot%202022-04-12%20234641.png)
 
 
 ## Authors
